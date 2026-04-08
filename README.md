@@ -13,7 +13,7 @@
 Soy ingeniero en telecomunicaciones con interés en:
 
 * 💻 Desarrollo Web
-* 🔄 Automatización de procesps
+* 🔄 Automatización de procesos
 * ☁️ Integración de sistemas y herramientas cloud
 * 📡 Tecnologías de telecomunicaciones
 
