@@ -44,13 +44,13 @@ Siempre buscando aprender algo nuevo y mejorar mis habilidades 🚀
 ![PowerAutomate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge)
 ![Office365](https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge\&logo=microsoftoffice\&logoColor=white)
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jltamayo2018\&theme=dracula)
 
-
+-->
 ---
 
 ## 🌐 Contacto
